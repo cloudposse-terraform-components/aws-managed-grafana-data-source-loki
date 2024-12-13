@@ -6,7 +6,7 @@ tags:
   - provider/grafana
 ---
 
-# Component: `managed`
+# Component: `managed-grafana-data-source-loki`
 
 This component is responsible for provisioning a Loki data source for an Amazon Managed Grafana workspace.
 
