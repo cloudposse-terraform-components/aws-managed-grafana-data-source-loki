@@ -5,3 +5,4 @@ repository:
   description: This component is responsible for provisioning a Loki data source for an Amazon Managed Grafana workspace
   homepage: https://cloudposse.com/accelerate
   topics: terraform, terraform-component
+
