@@ -11,7 +11,6 @@ tags:
 This component is responsible for provisioning a Loki data source for an Amazon Managed Grafana workspace.
 
 Use this component alongside the `eks/loki` component.
-
 ## Usage
 
 **Stack Level**: Regional
@@ -62,7 +61,10 @@ components:
 ```
 
 <!-- prettier-ignore-start -->
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- prettier-ignore-end -->
+
+
+<!-- markdownlint-disable -->
 ## Requirements
 
 | Name | Version |
@@ -133,12 +135,17 @@ components:
 | Name | Description |
 |------|-------------|
 | <a name="output_uid"></a> [uid](#output\_uid) | The UID of this dashboard |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-<!-- prettier-ignore-end -->
+<!-- markdownlint-restore -->
+
+
 
 ## References
 
-- [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components/tree/main/modules/managed-grafana/data-source/loki) -
-  Cloud Posse's upstream component
+
+- [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components/tree/main/modules/managed-grafana/data-source/loki) - Cloud Posse's upstream component
+
+
+
 
 [<img src="https://cloudposse.com/logo-300x69.svg" height="32" align="right"/>](https://cpco.io/homepage?utm_source=github&utm_medium=readme&utm_campaign=cloudposse-terraform-components/aws-managed-grafana-data-source-loki&utm_content=)
+
