@@ -138,9 +138,9 @@ components:
 |------|--------|---------|
 | <a name="module_grafana"></a> [grafana](#module\_grafana) | cloudposse/stack-config/yaml//modules/remote-state | 1.8.0 |
 | <a name="module_grafana_api_key"></a> [grafana\_api\_key](#module\_grafana\_api\_key) | cloudposse/stack-config/yaml//modules/remote-state | 1.8.0 |
-| <a name="module_iam_roles"></a> [iam\_roles](#module\_iam\_roles) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles | v1.536.0 |
+| <a name="module_iam_roles"></a> [iam\_roles](#module\_iam\_roles) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles | v1.536.1 |
 | <a name="module_loki"></a> [loki](#module\_loki) | cloudposse/stack-config/yaml//modules/remote-state | 1.8.0 |
-| <a name="module_source_account_role"></a> [source\_account\_role](#module\_source\_account\_role) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles | v1.536.0 |
+| <a name="module_source_account_role"></a> [source\_account\_role](#module\_source\_account\_role) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles | v1.536.1 |
 | <a name="module_this"></a> [this](#module\_this) | cloudposse/label/null | 0.25.0 |
 
 ## Resources
