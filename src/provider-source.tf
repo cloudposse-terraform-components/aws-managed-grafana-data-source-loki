@@ -1,5 +1,5 @@
 module "source_account_role" {
-  source = "github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles?ref=v1.536.0"
+  source = "github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles?ref=v1.536.1"
 
   stage  = var.loki_stage_name
   tenant = var.loki_tenant_name
