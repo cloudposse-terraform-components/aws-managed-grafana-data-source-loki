@@ -10,5 +10,9 @@ terraform {
       source  = "grafana/grafana"
       version = ">= 2.18.0"
     }
+    utils = {
+      source  = "cloudposse/utils"
+      version = ">= 2.0.0, < 3.0.0"
+    }
   }
 }
